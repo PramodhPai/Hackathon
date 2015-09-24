@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+E:\JunoProj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1248789948.index
+965337085.index
+591690920.index
+3808059656.index

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server hostname="localhost" id="HTTP Server at localhost" isPublishing="true" name="HTTP Server at localhost" port="80" runtime-id="HTTP Server" server-type="org.eclipse.wst.server.http.server" server-type-id="org.eclipse.wst.server.http.server" start-timeout="240" stop-timeout="240" timestamp="1" urlPrefix="organ">
+    <list key="modules" value0="Organ::org.eclipse.wst.web.internal.deployables.static:Organ::wst.web::1.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v6.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v6.0 Server at localhost" name="Tomcat v6.0 Server at localhost" runtime-id="Apache Tomcat v6.0" server-type="org.eclipse.jst.server.tomcat.60" server-type-id="org.eclipse.jst.server.tomcat.60" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="OrganDonar::org.eclipse.jst.jee.server:OrganDonar::jst.web::2.5"/>
+  </server>
+</servers>
